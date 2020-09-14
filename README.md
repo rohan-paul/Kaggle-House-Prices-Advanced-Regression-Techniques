@@ -24,10 +24,30 @@ etc.
 
 You can download an example submission file (sample_submission.csv) on the Data page.
 
-#### Notes on the data
+## Table of Contents
+
+1. [Notes on the data](#notes-on-the-data)
+
+2. [Technologies Used](#Technologies_Used)
+
+3. [ Executive Summary ](#Executive_Summary)
+
+## Notes on the data
 
 There are 1460 instances of training data and 1460 of test data. Total number of attributes equals 81, of which 36 are numerical, 43 are categorical + Id and SalePrice.
 
 Numerical Features: 1stFlrSF, 2ndFlrSF, 3SsnPorch, BedroomAbvGr, BsmtFinSF1, BsmtFinSF2, BsmtFullBath, BsmtHalfBath, BsmtUnfSF, EnclosedPorch, Fireplaces, FullBath, GarageArea, GarageCars, GarageYrBlt, GrLivArea, HalfBath, KitchenAbvGr, LotArea, LotFrontage, LowQualFinSF, MSSubClass, MasVnrArea, MiscVal, MoSold, OpenPorchSF, OverallCond, OverallQual, PoolArea, ScreenPorch, TotRmsAbvGrd, TotalBsmtSF, WoodDeckSF, YearBuilt, YearRemodAdd, YrSold
 
 Categorical Features: Alley, BldgType, BsmtCond, BsmtExposure, BsmtFinType1, BsmtFinType2, BsmtQual, CentralAir, Condition1, Condition2, Electrical, ExterCond, ExterQual, Exterior1st, Exterior2nd, Fence, FireplaceQu, Foundation, Functional, GarageCond, GarageFinish, GarageQual, GarageType, Heating, HeatingQC, HouseStyle, KitchenQual, LandContour, LandSlope, LotConfig, LotShape, MSZoning, MasVnrType, MiscFeature, Neighborhood, PavedDrive, PoolQC, RoofMatl, RoofStyle, SaleCondition, SaleType, Street, Utilitif
+
+## Technologies Used
+
+- <strong>Python</strong>
+- <strong>Pandas</strong>
+- <strong>Numpy</strong>
+- <strong>Matplotlib</strong>
+- <strong>Seaborn</strong>
+- <strong>Tensorflow</strong>
+</details>
+
+## Executive Summary
