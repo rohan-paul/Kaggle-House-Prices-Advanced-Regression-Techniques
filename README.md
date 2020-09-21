@@ -42,7 +42,7 @@ Categorical Features: Alley, BldgType, BsmtCond, BsmtExposure, BsmtFinType1, Bsm
 - <strong>Matplotlib</strong>
 - <strong>Seaborn</strong>
 - <strong>Tensorflow</strong>
-</details>
+
 
 ## Submission File Format
 
