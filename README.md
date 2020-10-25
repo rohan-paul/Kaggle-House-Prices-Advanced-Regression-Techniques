@@ -1,5 +1,13 @@
 ![](assets/houses.jpg)
 
+
+#### [Google Colab Link of my completed and working Notebook](https://colab.research.google.com/drive/1l2GnzsYLw5tnDXmPm7E7SCc8Wg5d_w59?usp=sharing)
+
+
+#### [Kaggle Link of my completed and working Notebook](https://www.kaggle.com/paulrohan2020/eda-and-simple-linear-regression-for-house-price)
+
+---
+
 ### [Kaggle Competition Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
 You can download an example submission file (sample_submission.csv) on the Data page.
