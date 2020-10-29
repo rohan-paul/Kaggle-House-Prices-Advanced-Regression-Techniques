@@ -551,7 +551,7 @@ MiscFeature: Miscellaneous feature not covered in other categories
        Shed	Shed (over 100 SF)
        TenC	Tennis Court
        NA	None
-		
+		YearRemodAdd
 MiscVal: $Value of miscellaneous feature
 
 MoSold: Month Sold (MM)
